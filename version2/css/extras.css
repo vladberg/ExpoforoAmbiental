@@ -1,0 +1,12 @@
+table {
+  border-collapse: separate;
+  border-spacing:  25px;
+}
+img.dc {
+    margin-top: 50px;
+}
+label.col-lg-2.control-label {
+    font-family: Roboto Condensed !important;
+    font-weight: normal;
+	color: black;
+}

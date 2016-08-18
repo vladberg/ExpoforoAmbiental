@@ -1,0 +1,26 @@
+html, body {
+    background: white !important;
+
+}
+table {
+  border-collapse: separate;
+  border-spacing:  20px;
+}
+H4 {
+	FONT-WEIGHT: BOLD !IMPORTANT;
+    FONT-SIZE: 4EM !IMPORTANT;
+	FONT-FAMILY:Oswald !important;
+}
+H5 {
+FONT-WEIGHT: BOLD !IMPORTANT;
+    FONT-SIZE: 3EM !IMPORTANT;
+    FONT-FAMILY: Oswald !important;
+    COLOR: #DF0024;
+	}
+H6 {
+    COLOR: #00622F;
+    FONT-SIZE: 2EM;
+}
+img.canaco{
+    width: 220px;
+}
